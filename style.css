@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(232, 241, 232);
+    color: #161515;
+    line-height: 50px;
+}
+.white-color {
+    color: #020103;
+}
+
+.half-width{
+    width:50%;
+    float:left;
+}
+.side-img{
+    width: 50%;
+    padding-left: 25%;
+}
+.primary-btn {
+    color: rgb(55, 180, 97);
+    background-color: #0e0d0f;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+h1{
+    font-size: 2.5em;
+}
+.container{
+    padding-left:5%;
+    display: inline-block;
+}
+.experiences {
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(2, 141, 13);
+    border-radius: 20px;
+}
+.experience-item {
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2)
+}
